@@ -1,0 +1,4 @@
+FastVLM/model/*
+*.DS_STORE
+*.xcbkptlist
+*.xcuserstate
